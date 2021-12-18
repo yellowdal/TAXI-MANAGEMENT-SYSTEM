@@ -25,3 +25,18 @@ The customer’s need is fulfilled by Taxi Management System software which is o
 for the management people that enables them to receive the goods from a source and send them to a
 required destination and track their status from time to time.
 This system can be used for daily activities such as placing a Taxi and track the Taxi etc
+
+
+THE DETAILED REPORT of my project is in master branch.
+
+The java classes of our project, screenshots of our output and tables in Master branch.
+
+But in our project we have to create a column in mysql, then connect it to java.
+
+Tables screenshots is also in master branch.
+
+PLatform used:-
+
+IntelliJ Idea for JAVA
+MYSQL for SQL 
+sql connector
