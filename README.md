@@ -33,7 +33,9 @@ The java classes of our project, screenshots of our output and tables in Master 
 
 But in our project we have to create a column in mysql, then connect it to java.
 
-Tables screenshots is also in master branch.
+Tables screenshots is also in master branch , in "desc" folder.
+Output screenshots and tables screenshots in master branch,in  "screenshots" folder.
+
 
 PLatform used:-
 
